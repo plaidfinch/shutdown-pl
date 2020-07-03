@@ -8,13 +8,13 @@ In the United States, the most recent murders of Black people at the hands of po
 
 Shutdown PL began as a day of action for programming languages researchers, as part of the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). For sustainable change, we have to incorporate anti-racist action as part of all our research activities. Our next action will be held as part of the virtual [International Conference on functional Progrsmming 2020](https://icfp20.sigplan.org/), responding to the conference's [Statement on Current Events](https://icfp20.sigplan.org/attending/icfp-statement-on-current-events).
 
-# Sponsor us at ICFP 2020
+# Sponsor Us at ICFP 2020
 
 An important issue in access to opportunities in technology is paying people for their labor, since otherwise opportunities only go to those who can afford to work for free. We are looking for sponsors to support an important social change within CS research communities. As a sponsor, your name and logo will be included on the event web page and on the event video stream, you will be thanked during the event.
 
 # Register
 
-Please register at the main ICFP registration page.
+Please register at the main ICFP registration page once registration opens for the main conference.
 
 Looking forward to seeing you there,
 
