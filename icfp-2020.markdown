@@ -6,7 +6,7 @@ In the United States, the most recent murders of Black people at the hands of po
 
 # Join Us at ICFP 2020
 
-Shutdown PL began as a day of action for programming languages researchers, as part of the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). For sustainable change, we have to incorporate anti-racist action as part of all our research activities. Our next action will be held as part of the virtual [International Conference on functional Progrsmming 2020](https://icfp20.sigplan.org/), responding to the conference's [Statement on Current Events](https://icfp20.sigplan.org/attending/icfp-statement-on-current-events).
+Shutdown PL began as a day of action for programming languages researchers, as part of the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). For sustainable change, we have to incorporate anti-racist action as part of all our research activities. Our next action will be held as part of the virtual [International Conference on Functional Programming 2020](https://icfp20.sigplan.org/), responding to the conference's [Statement on Current Events](https://icfp20.sigplan.org/attending/icfp-statement-on-current-events).
 
 # Sponsor Us at ICFP 2020
 
