@@ -8,7 +8,7 @@ Shutdown PL began as a day of action for programming languages researchers, as p
 
 # Sponsor us at ICFP 2020
 
-An important issue in access to opportunities in technology is paying people for their labor, since otherwise opportunities only go to those who can afford to work for free. We are looking for sponsors to supporting an important social change within CS research communities. As a sponsor, your name and logo will be included on the event web page and on the event video stream, you will be thanked during the event.
+An important issue in access to opportunities in technology is paying people for their labor, since otherwise opportunities only go to those who can afford to work for free. We are looking for sponsors to support an important social change within CS research communities. As a sponsor, your name and logo will be included on the event web page and on the event video stream, you will be thanked during the event.
 
 # Register
 
@@ -16,4 +16,4 @@ Please register at the main ICFP registration page.
 
 Looking forward to seeing you there,
 
-[Kenny Foner](https://very.science), [Talia Ringer](https://tlringer.github.io/), et. al.
+[Kenny Foner](https://very.science), et. al.
