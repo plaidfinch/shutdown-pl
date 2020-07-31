@@ -1,12 +1,10 @@
----
-title: "Shutdown PL @ ICFP 2020"
----
-
 ![Shutdown PL Banner](./images/banner.png)
+
+# Shutdown PL @ ICFP 2020
 
 The purpose of #ShutdownPL @ ICFP 2020 is to create a space at [ICFP 2020](https://icfp20.sigplan.org/) to identify, discuss, and organize around opportunities for positive, anti-racist change in research spaces, academia, industry, and, in particular, the programming languages community. We acknowledge that anti-Black racism is sustained by systems of discrimination that are pervasive across our society, with academic spaces being no exception. Inspired by the recent #ShutdownSTEM event and in response to the continued violence against Black people in the US, #ShutdownPL @ ICFP aims to offer a safe space in which to collaborate and to take action against racism and systems of oppression.
 
-# Join Us at ICFP 2020
+## Join Us at ICFP 2020
 
 Shutdown PL began as a day of action for programming languages researchers, as part of the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). For sustainable change, we have to incorporate anti-racist action as part of all our research activities. Our next action will be held as part of the virtual [International Conference on Functional Programming 2020](https://icfp20.sigplan.org/), responding to the conference's [Statement on Current Events](https://icfp20.sigplan.org/attending/icfp-statement-on-current-events).
 

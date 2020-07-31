@@ -1,3 +1,5 @@
+![Shutdown PL Banner](./images/banner.png)
+
 # This Wednesday, June 10, it's time to #ShutdownPL
 
 In the United States, recent acts of violence against Black people at the hands of police have prompted international protest that has itself been met with further abuse---the latest manifestation of a centuries-old history of violence and oppression. We, as members of the global programming languages community, acknowledge that every institution in our society is built on a foundation of white supremacy---and our academic systems and research industry are no exception. We have the strongest moral imperative to act not just in this particular moment of political turmoil and uncertainty, but in lasting, sustainable ways to permanently transform our institutions against the systemic racism from which they benefit and which they perpetuate.
@@ -15,5 +17,5 @@ We want to note: as the organizers of #ShutdownPL, we do not want to demand labo
 
 ## Stay updated and contact
 
-- Twitter account: @ShutdownPL
+- Twitter account: [@ShutdownPL](https://twitter.com/ShutdownPL)
 - Email address: shutdownpl.organizers@gmail.com
