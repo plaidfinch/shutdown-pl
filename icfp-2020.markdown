@@ -2,15 +2,33 @@
 title: "Shutdown PL @ ICFP 2020"
 ---
 
-In the United States, the most recent murders of Black people at the hands of police have prompted international protest that has itself been met with further police brutality---the latest manifestation of a centuries-old history of violence and oppression. We, as members of the global programming languages community, acknowledge that every institution in our society is built on a foundation of white supremacy---and our academic systems and research industry are no exception. We have the strongest moral imperative to act not just in this particular moment of political turmoil and uncertainty, but in lasting, sustainable ways to permanently transform our institutions against the systemic racism from which they benefit and which they perpetuate.
+![Shutdown PL Banner](banner.png)
+
+The purpose of #ShutdownPL @ ICFP 2020 is to create a space at [ICFP 2020](https://icfp20.sigplan.org/) to identify, discuss, and organize around opportunities for positive, anti-racist change in research spaces, academia, industry, and, in particular, the programming languages community. We acknowledge that anti-Black racism is sustained by systems of discrimination that are pervasive across our society, with academic spaces being no exception. Inspired by the recent #ShutdownSTEM event and in response to the continued violence against Black people in the US, #ShutdownPL @ ICFP aims to offer a safe space in which to collaborate and to take action against racism and systems of oppression.
 
 # Join Us at ICFP 2020
 
 Shutdown PL began as a day of action for programming languages researchers, as part of the movement to [#ShutdownSTEM](https://www.shutdownstem.com/) for a global [#Strike4BlackLives](https://twitter.com/hashtag/Strike4BlackLives). For sustainable change, we have to incorporate anti-racist action as part of all our research activities. Our next action will be held as part of the virtual [International Conference on Functional Programming 2020](https://icfp20.sigplan.org/), responding to the conference's [Statement on Current Events](https://icfp20.sigplan.org/attending/icfp-statement-on-current-events).
 
+
+## Volunteer
+
+We’re currently looking for volunteers to help out at #ShutdownPL @ ICFP 2020! Please fill out [this form](https://forms.gle/4EQ1GGkGpw1GC9ur6) if you’re interested.
+
+## Help Spread The Word
+
+A hugely helpful contribution that you can make to our cause is to spread the word about #ShutdownPL @ ICFP 2020! In addition to telling your friends and colleagues, there are some special ways that you may be able to spread the word for us. For example, if you are…
+- an ICFP presenter, you could give us a shout-out at the end of your talk.
+- an avid twitter user, you could use the #ShutdownPL tag and tell your followers about us.
+- If you oversee a group of students or engineers, you could let them know about the workshop as a way to discuss and inspire positive change in your community.
+
+Here is some info about #ShutdownPL @ ICFP 2020 in an easy-to-digest bulleted format:
+- ShutdownPL is an anti-racism event occurring at ICFP 2020 on August XX from XX pm to XX pm.
+- We want to identify, discuss, and organize around opportunities for positive, anti-racist change in research spaces, academia, industry, and, in particular, the programming languages community.
+
 # Sponsor Us at ICFP 2020
 
-An important issue in access to opportunities in technology is paying people for their labor, since otherwise opportunities only go to those who can afford to work for free. We are looking for sponsors to support an important social change within CS research communities. As a sponsor, your name and logo will be included on the event web page and on the event video stream, you will be thanked during the event.
+An important issue in access to opportunities in technology is paying people for their labor, as otherwise opportunities only go to those who can afford to work for free. We are looking for sponsors who support diversity and inclusion within CS research communities. As a sponsor, your name and logo will be included on the event webpage. Moreover, you will be thanked during the event, which will be video streamed.
 
 # Register
 
