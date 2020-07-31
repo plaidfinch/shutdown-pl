@@ -1,4 +1,6 @@
-# This Wednesday, June 10, it's time to #ShutdownPL
+---
+title: "This Wednesday, June 10, it's time to #ShutdownPL"
+---
 
 In the United States, the most recent murders of Black people at the hands of police have prompted international protest that has itself been met with further police brutality---the latest manifestation of a centuries-old history of violence and oppression. We, as members of the global programming languages community, acknowledge that every institution in our society is built on a foundation of white supremacy---and our academic systems and research industry are no exception. We have the strongest moral imperative to act not just in this particular moment of political turmoil and uncertainty, but in lasting, sustainable ways to permanently transform our institutions against the systemic racism from which they benefit and which they perpetuate.
 
