@@ -24,7 +24,7 @@ Here is some info about #ShutdownPL @ ICFP 2020 in an easy-to-digest bulleted fo
 - ShutdownPL is an anti-racism event occurring at ICFP 2020, most likely on August 27, although the concrete date is TBD.
 - We want to identify, discuss, and organize around opportunities for positive, anti-racist change in research spaces, academia, industry, and, in particular, the programming languages community.
 
-For branding, please refer to our official desings [here](https://drive.google.com/drive/folders/12SfeWBoJDlu_LRiYBEN4EW24ZoJOHEbX?usp=sharing).Design credits go to [Aaron Weiss](https://aaronweiss.us/)
+For branding, please refer to our official desings [here](https://drive.google.com/drive/folders/12SfeWBoJDlu_LRiYBEN4EW24ZoJOHEbX?usp=sharing).. Design credits go to [Aaron Weiss](https://aaronweiss.us/)
 
 # Sponsor Us at ICFP 2020
 
