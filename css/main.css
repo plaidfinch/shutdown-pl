@@ -24,6 +24,10 @@
   text-size-adjust: none;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
@@ -37,6 +41,8 @@ body {
   padding-bottom: var(--spacing);
   border-top: 10px solid var(--text-color);
   border-bottom: 10px solid var(--accent-color);
+
+  min-height: 100%;
 }
 
 a {
