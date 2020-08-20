@@ -217,7 +217,7 @@ section h3 {
   line-height: 1.3;
 }
 
-.timeline li span {
+.timeline li > *:first-child {
   display: inline-block;
   width: 100px;
   text-align: right;
@@ -225,9 +225,17 @@ section h3 {
   font-style: italic;
 }
 
-.timeline li span + * {
+.timeline.timeline-wide li > *:first-child {
+  width: 150px;
+}
+
+.timeline li > *:nth-child(2) {
   display: inline-block;
-  margin-left: 110px;
+  margin-left: 120px;
+}
+
+.timeline.timeline-wide li > *:nth-child(2) {
+  margin-left: 180px;
 }
 
 /* Responsivity */
