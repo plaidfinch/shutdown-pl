@@ -129,7 +129,6 @@ h1 {
 /* Navigation */
 
 nav {
-  display: none;
   margin-bottom: var(--spacing);
 }
 
