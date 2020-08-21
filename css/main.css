@@ -226,7 +226,7 @@ section h3 {
 }
 
 .timeline.timeline-wide li > *:first-child {
-  width: 150px;
+  width: 140px;
 }
 
 .timeline li > *:nth-child(2) {
@@ -235,7 +235,7 @@ section h3 {
 }
 
 .timeline.timeline-wide li > *:nth-child(2) {
-  margin-left: 180px;
+  margin-left: 170px;
 }
 
 /* Responsivity */
