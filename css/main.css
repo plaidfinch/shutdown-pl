@@ -238,6 +238,12 @@ section h3 {
   margin-left: 170px;
 }
 
+.timeline .more-info {
+  display: block;
+  margin-top: calc(var(--spacing) / 2);
+  font-style: italic;
+}
+
 /* Responsivity */
 
 @media(max-width: 800px) {
