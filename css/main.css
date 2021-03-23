@@ -158,6 +158,18 @@ nav a {
 nav li.current {
 }
 
+/* Big Links */
+
+.big-link {
+  display: block;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5em;
+  padding: calc(var(--spacing));
+  border-radius: 5px;
+  border: 2px solid var(--link-color);
+}
+
 /* Main Content */
 
 section {
