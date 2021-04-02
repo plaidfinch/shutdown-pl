@@ -218,6 +218,13 @@ section h3 {
   margin-bottom: var(--spacing);
 }
 
+section p.emphasis {
+  margin: calc(2 * var(--spacing));
+  padding: var(--spacing);
+  border: 10px solid var(--accent-color);
+  outline: 10px solid var(--text-color);
+}
+
 /* Timeline */
 
 .timeline {
