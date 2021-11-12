@@ -184,6 +184,11 @@ section:not(:first-of-type) {
   align-items: flex-start;
 }
 
+section ol {
+  list-style-type: decimal;
+  margin-left: 35px;
+}
+
 section ul {
   list-style-type: disc;
   margin-left: 35px;
@@ -199,7 +204,8 @@ section ul.narrow li {
 
 section p:not(:last-child),
 section li:not(:last-child),
-section ul:not(:last-child) {
+section ul:not(:last-child) ,
+section ol:not(:last-child) {
   margin-bottom: var(--spacing);
 }
 
